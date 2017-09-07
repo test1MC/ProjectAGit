@@ -7,7 +7,8 @@
   GlossaryTermConversion="marked"
   CentralLinkIds="ar_3945"
   TargetLanguage="en-us,ar_../../../../Documents/My Project Exports/Project B Git/Project B Git.flprj"
-  MasterPage="/Content/Resources/NewMasterPage.flmsp">
+  MasterPage="/Content/Resources/NewMasterPage.flmsp"
+  Skin="/Project/Skins/HTML5 - Tripane.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
